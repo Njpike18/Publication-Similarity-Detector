@@ -1,0 +1,50 @@
+﻿The revolutionary messenger ribonucleic acid (mRNA) technology in some Covid vaccines given to millions of people could be fine-tuned for even greater accuracy, UK scientists say.
+Genetic instructions in the jab could be tweaked to avoid a harmless tiny "slip" sometimes seen as the body reads the code, the Medical Research Council team suggest.
+Existing mRNA vaccines are effective and safe, they say.
+Future ones could fight more diseases.
+The partly government-funded study, published in the journal Nature, involved detailed lab work on the original Pfizer-BioNTech shot that, three years ago, became the first of its kind to be used to protect people in the pandemic.
+By studying mice and then 21 volunteers who had received the vaccine, the researchers discovered about one in three people might experience the slip error.
+One of the biggest success stories in medicine, the mRNA shots, which include one made by Moderna, have protected millions of lives, the researchers say. And understanding and updating the science should help mRNA technology tackle more diseases, possibly even cancer, in the future.
+* UK plan for national mRNA cancer vaccine advance
+Covid mRNA vaccines work by showing the body's cells a bit of genetic code from the pandemic virus.
+This cannot cause infection but can teach the body how to defend itself against Covid-19.
+The body reads and translates the code using its own cell machinery, called ribosomes.
+The immune system then uses the instructions to make special protective proteins, called antibodies, that can fight Covid.
+Skips forward
+It is the translation process in the ribosomes that can go slightly wrong, the researchers say.
+The end result is still great protection - but there can be a few extra, unintended proteins made too.
+Thankfully, these cause no physical issues, the researchers say, based on real-life evidence from the millions of people, including teenagers and children, vaccinated.
+Had there been any problems, they would have been spotted early on, they say.
+Translating the code is a bit like reading a sentence of three-letter words, such as: "The cat ate the fat rat."
+The ribosome occasionally skips forward by a letter or place, called a frameshift, to read: "The cat a tet hef atr."
+And the researchers found a simple tweak to some of the code could eradicate these errors, without affecting the desired end product - protection against a dangerous disease.
+Slip-resistant coding
+Lead researcher Dr James Thaventhiran, from the MRC Toxicology Unit at the University of Cambridge, said: "Research has shown beyond doubt that mRNA vaccination against Covid-19 is safe.
+"Billions of doses of the Moderna and Pfizer mRNA vaccines have been safely delivered, saving lives worldwide.
+"We need to ensure that mRNA vaccines of the future are as reliable.
+"Our demonstration of 'slip-resistant' mRNAs is a vital contribution to future safety of this medicine platform."
+Co-researcher Prof Anne Willis said: "This is really important because this technology is amazing and it is going to be revolutionary as a new medicine platform for all sorts of things."
+'Easy fix'
+Prof Stephen Griffin, an expert in cancer virology, at the University of Leeds, called it a landmark study.
+"It matters that we understand that these events are possible - but it by no means implies that the well established population-safety record for these vaccines, which have been administered more than 13 billion times since 2021, should be questioned," he said.
+"Moreover, now this has been identified, there is an easy fix."
+Future mRNA vaccines should use the slip-resistant coding, the researchers say, as it is scientifically possible some unintended proteins might be capable of triggering an unwanted immune response or side effect.
+Any treatment or vaccine can have possible risks or side effects, although not everybody experiences them.
+More common ones with Covid vaccines are mild and short-lived:
+* a sore arm from the injection
+* feeling tired
+* a headache
+* feeling achy
+In the UK, about 53 million people received a first dose of Covid vaccine, 50 million a second and more than 40 million a third or booster, according to official data.
+Safety continues to be monitored.
+The Medicines and Healthcare products Regulatory Agency (MHRA), which does that monitoring in the UK, says the benefits of the vaccines in preventing Covid-19 and serious complications associated with Covid-19 far outweigh any currently known side effects in the majority of patients.
+Dr Alison Cave, MHRA chief safety officer, added: "Emerging information is kept under review. We ask anyone who suspects they have experienced a side effect linked with their COVID-19 vaccine to report it via our Yellow Card scheme website."
+There have been rare cases of myocarditis - inflammation of the heart muscle - following the mRNA Moderna and the Pfizer vaccines in the UK and it has been listed as a very rare side effect.
+The Oxford-AstraZeneca vaccine used early in the pandemic works slightly differently to mRNA vaccines. It has also had some very rare reported side effects, with some people developing dangerous blood clots.
+
+
+'Promising platform'
+Pfizer said: "We welcome independent research and academic discourse to advance the science of mRNA technology.
+"The Covid-19 pandemic provided the first opportunity for the use of mRNA platforms.
+"To date, hundreds of millions of doses of our Covid-19 vaccines have been administered globally, establishing a positive benefit-risk profile.
+"We continue to advance mRNA research and, together with the scientific community, explore new applications for this promising platform to help prevent and treat the spectrum of human disease."
